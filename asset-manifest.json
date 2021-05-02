@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/egapp/static/css/main.bc019802.chunk.css",
-    "main.js": "/egapp/static/js/main.818ee3af.chunk.js",
-    "main.js.map": "/egapp/static/js/main.818ee3af.chunk.js.map",
+    "main.js": "/egapp/static/js/main.905af54d.chunk.js",
+    "main.js.map": "/egapp/static/js/main.905af54d.chunk.js.map",
     "runtime-main.js": "/egapp/static/js/runtime-main.dd7a967c.js",
     "runtime-main.js.map": "/egapp/static/js/runtime-main.dd7a967c.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/egapp/static/css/2.4c97ca4f.chunk.css",
@@ -24,6 +24,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.a8615b07.chunk.js",
     "static/css/main.bc019802.chunk.css",
-    "static/js/main.818ee3af.chunk.js"
+    "static/js/main.905af54d.chunk.js"
   ]
 }
