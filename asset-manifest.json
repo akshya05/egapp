@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/egapp/static/css/main.bc019802.chunk.css",
-    "main.js": "/egapp/static/js/main.905af54d.chunk.js",
-    "main.js.map": "/egapp/static/js/main.905af54d.chunk.js.map",
-    "runtime-main.js": "/egapp/static/js/runtime-main.dd7a967c.js",
-    "runtime-main.js.map": "/egapp/static/js/runtime-main.dd7a967c.js.map",
+    "main.css": "/egapp/static/css/main.a597b1f2.chunk.css",
+    "main.js": "/egapp/static/js/main.8af09f67.chunk.js",
+    "main.js.map": "/egapp/static/js/main.8af09f67.chunk.js.map",
+    "runtime-main.js": "/egapp/static/js/runtime-main.e18bbea2.js",
+    "runtime-main.js.map": "/egapp/static/js/runtime-main.e18bbea2.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/egapp/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.a8615b07.chunk.js": "/egapp/static/js/2.a8615b07.chunk.js",
-    "static/js/2.a8615b07.chunk.js.map": "/egapp/static/js/2.a8615b07.chunk.js.map",
-    "static/js/3.92478fbc.chunk.js": "/egapp/static/js/3.92478fbc.chunk.js",
-    "static/js/3.92478fbc.chunk.js.map": "/egapp/static/js/3.92478fbc.chunk.js.map",
+    "static/js/2.d4f80b5f.chunk.js": "/egapp/static/js/2.d4f80b5f.chunk.js",
+    "static/js/2.d4f80b5f.chunk.js.map": "/egapp/static/js/2.d4f80b5f.chunk.js.map",
+    "static/js/3.9f4d7049.chunk.js": "/egapp/static/js/3.9f4d7049.chunk.js",
+    "static/js/3.9f4d7049.chunk.js.map": "/egapp/static/js/3.9f4d7049.chunk.js.map",
     "index.html": "/egapp/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/egapp/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.bc019802.chunk.css.map": "/egapp/static/css/main.bc019802.chunk.css.map",
-    "static/js/2.a8615b07.chunk.js.LICENSE.txt": "/egapp/static/js/2.a8615b07.chunk.js.LICENSE.txt",
+    "static/css/main.a597b1f2.chunk.css.map": "/egapp/static/css/main.a597b1f2.chunk.css.map",
+    "static/js/2.d4f80b5f.chunk.js.LICENSE.txt": "/egapp/static/js/2.d4f80b5f.chunk.js.LICENSE.txt",
     "static/media/App.css": "/egapp/static/media/BGimage.13148fd8.png",
     "static/media/Home.css": "/egapp/static/media/Pizza-from.acc6a8b5.jpg",
     "static/media/delivery-motorcycle.c3f8d42c.jpg": "/egapp/static/media/delivery-motorcycle.c3f8d42c.jpg",
     "static/media/header_bg.4fc61274.png": "/egapp/static/media/header_bg.4fc61274.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.dd7a967c.js",
+    "static/js/runtime-main.e18bbea2.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.a8615b07.chunk.js",
-    "static/css/main.bc019802.chunk.css",
-    "static/js/main.905af54d.chunk.js"
+    "static/js/2.d4f80b5f.chunk.js",
+    "static/css/main.a597b1f2.chunk.css",
+    "static/js/main.8af09f67.chunk.js"
   ]
 }
