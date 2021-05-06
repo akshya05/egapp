@@ -1,29 +1,33 @@
 {
   "files": {
-    "main.css": "/egapp/static/css/main.5defb9a1.chunk.css",
-    "main.js": "/egapp/static/js/main.6e9ae3cd.chunk.js",
-    "main.js.map": "/egapp/static/js/main.6e9ae3cd.chunk.js.map",
-    "runtime-main.js": "/egapp/static/js/runtime-main.e18bbea2.js",
-    "runtime-main.js.map": "/egapp/static/js/runtime-main.e18bbea2.js.map",
-    "static/css/2.4c97ca4f.chunk.css": "/egapp/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.471dc7ae.chunk.js": "/egapp/static/js/2.471dc7ae.chunk.js",
-    "static/js/2.471dc7ae.chunk.js.map": "/egapp/static/js/2.471dc7ae.chunk.js.map",
-    "static/js/3.9f4d7049.chunk.js": "/egapp/static/js/3.9f4d7049.chunk.js",
-    "static/js/3.9f4d7049.chunk.js.map": "/egapp/static/js/3.9f4d7049.chunk.js.map",
+    "main.css": "/egapp/static/css/main.c3f37694.chunk.css",
+    "main.js": "/egapp/static/js/main.26ce279f.chunk.js",
+    "main.js.map": "/egapp/static/js/main.26ce279f.chunk.js.map",
+    "runtime-main.js": "/egapp/static/js/runtime-main.f3643241.js",
+    "runtime-main.js.map": "/egapp/static/js/runtime-main.f3643241.js.map",
+    "static/css/2.f43237bc.chunk.css": "/egapp/static/css/2.f43237bc.chunk.css",
+    "static/js/2.3c5873f8.chunk.js": "/egapp/static/js/2.3c5873f8.chunk.js",
+    "static/js/2.3c5873f8.chunk.js.map": "/egapp/static/js/2.3c5873f8.chunk.js.map",
+    "static/js/3.045a9590.chunk.js": "/egapp/static/js/3.045a9590.chunk.js",
+    "static/js/3.045a9590.chunk.js.map": "/egapp/static/js/3.045a9590.chunk.js.map",
     "index.html": "/egapp/index.html",
-    "static/css/2.4c97ca4f.chunk.css.map": "/egapp/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.5defb9a1.chunk.css.map": "/egapp/static/css/main.5defb9a1.chunk.css.map",
-    "static/js/2.471dc7ae.chunk.js.LICENSE.txt": "/egapp/static/js/2.471dc7ae.chunk.js.LICENSE.txt",
+    "static/css/2.f43237bc.chunk.css.map": "/egapp/static/css/2.f43237bc.chunk.css.map",
+    "static/css/main.c3f37694.chunk.css.map": "/egapp/static/css/main.c3f37694.chunk.css.map",
+    "static/js/2.3c5873f8.chunk.js.LICENSE.txt": "/egapp/static/js/2.3c5873f8.chunk.js.LICENSE.txt",
     "static/media/BGImage.a63a7090.jpg": "/egapp/static/media/BGImage.a63a7090.jpg",
-    "static/media/App.css": "/egapp/static/media/BGimage.13148fd8.png",
+    "static/media/Burger.172565fe.jpg": "/egapp/static/media/Burger.172565fe.jpg",
+    "static/media/Healthy.4dd3bbe5.jpg": "/egapp/static/media/Healthy.4dd3bbe5.jpg",
+    "static/media/Pizza-from.acc6a8b5.jpg": "/egapp/static/media/Pizza-from.acc6a8b5.jpg",
+    "static/media/Samosa.3190869c.jpg": "/egapp/static/media/Samosa.3190869c.jpg",
     "static/media/delivery-motorcycle.c3f8d42c.jpg": "/egapp/static/media/delivery-motorcycle.c3f8d42c.jpg",
-    "static/media/header_bg.4fc61274.png": "/egapp/static/media/header_bg.4fc61274.png"
+    "static/media/header_bg.4fc61274.png": "/egapp/static/media/header_bg.4fc61274.png",
+    "static/media/styles.css": "/egapp/static/media/revicons.e8746a62.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.e18bbea2.js",
-    "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.471dc7ae.chunk.js",
-    "static/css/main.5defb9a1.chunk.css",
-    "static/js/main.6e9ae3cd.chunk.js"
+    "static/js/runtime-main.f3643241.js",
+    "static/css/2.f43237bc.chunk.css",
+    "static/js/2.3c5873f8.chunk.js",
+    "static/css/main.c3f37694.chunk.css",
+    "static/js/main.26ce279f.chunk.js"
   ]
 }
